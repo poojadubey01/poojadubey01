@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashley aka Pooja</h1>
 <h3 align="center">A passionate full stack developer and learner</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/poojadubey01/poojadubey01/assets/67260934/73c14016-0b3c-4bcb-a58b-8c89d976a457)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/poojadubey01/poojadubey01/assets/67260934/4a778da4-8ebb-4fdf-94c5-257dcf2fb063">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojadubey01" alt="poojadubey01" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
