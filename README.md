@@ -1,15 +1,15 @@
 <a href="https://ash-300.vercel.app/">
-<img align="right" width="250" src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif">
+<img align="right" width="200" src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif">
 </a>
 
 <div style="text-align: center;">
-  <h1><strong>Hello! I'm Pooja aka Ashley🌺</strong></h1>
+  <h2><strong>Hello! I'm Pooja aka Ashley🌺</strong></h2>
   <strong><code>Full Stack Developer</code></strong>
 </div>
 
 <div align="left">
 	
-![](https://typograssy.deno.dev/api?text=I&nbsp;love&nbsp;coding&nbsp;✨&l0=none&l1=d48dd1&l2=d48dd1&l3=d48dd1&l4=d48dd1&bg=none&frame=none&speed=100&comment=)
+![](https://typograssy.deno.dev/api?text=The&nbsp;Kawaii&nbsp;coder&nbsp;✨&l0=none&l1=d48dd1&l2=d48dd1&l3=d48dd1&l4=d48dd1&bg=none&frame=none&speed=100&comment=)
 </div>
 
 ## **🔮 About me**
