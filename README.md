@@ -56,7 +56,7 @@ Savor your stay! Delighted to have you in my world! 🌟💖
 <a href="https://github.com/poojadubey01">
 <img align="right" width="100" src="https://i.pinimg.com/originals/48/a2/22/48a222dc162ff97bd007c94eb53d2098.gif"/></a>
 
-**You can also email me here:** poojadubeyrockstar@gmail.com
+**You can also email me here:** poojadubey9029@gmail.com
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=poojadubey01">-->
 [![](https://img.shields.io/github/followers/poojadubey01?label=Followers&style=social&color=purple)](https://github.com/well300)
