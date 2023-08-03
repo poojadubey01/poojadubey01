@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ashley aka Pooja</h1>
-<h3 align="center">A passionate full stack developer and learner</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/poojadubey01/poojadubey01/assets/67260934/4a778da4-8ebb-4fdf-94c5-257dcf2fb063">
+<a href="https://ash-300.vercel.app/">
+<img align="right" width="250" src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif">
+</a>
 
+<div style="text-align: center;">
+  <h1><strong>Hello! I'm Pooja aka Ashley🌺</strong></h1>
+  <strong><code>Full Stack Developer</code></strong>
+</div>
 
+<div align="left">
+	
+![](https://typograssy.deno.dev/api?text=I&nbsp;love&nbsp;coding&nbsp;✨&l0=none&l1=d48dd1&l2=d48dd1&l3=d48dd1&l4=d48dd1&bg=none&frame=none&speed=100&comment=)
+</div>
 
-- 🌱 I’m currently learning **Machine learning and Data Science**
+## **🔮 About me**
+<a href="https://github.com/poojadubeu01">
+<img align="right" width="100" src="https://stareon.carrd.co/assets/images/gallery01/154bf892.gif?v92574008746751"></a>
+🧙‍♂️ I'm a software developer with full-stack and basic data science knowledge. 🌸💜<br>My strong background in computer science helps me excel in programming languages and frameworks. 🔮📚
+<br><br>
 
-- 📫 How to reach me **poojadubey9029@gmail.com**
+## **💻 Experience**
+<a href="https://github.com/poojadubey01">
+<img align="right" width="100" src="https://i.pinimg.com/originals/62/a3/0c/62a30c5d65b6cd0d00b9d6e0e1364f55.gif"></a>
+🧙‍♂️ Worked on real-time projects with experts, mastering Python, Flutter, Django, Blockchain, and Java. 🏗️💻<br>
+🤝 Developed strong teamwork and multitasking skills. 🤹‍♂️🚀<br>
+✨ Committed to continuous learning and eager to embrace new software development challenges. 🌟🔭<br>
 
-- ⚡ Fun fact **I m lowkey a doctor**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/pooja-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pooja-dubey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pooja-dubey-3299621b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-dubey-3299621b1/" height="30" width="40" /></a>
-<a href="https://instagram.com/_ecstasyy.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ecstasyy.__" height="30" width="40" /></a>
+## **📊 Github Stats**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=poojadubey01&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojadubey01&show_icons=true&count_private=true&theme=radical&hide_border=true&layout=compact" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojadubey01&show_icons=true&locale=en&layout=compact" alt="poojadubey01" /></p>
+## **🎧 Spotify**
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true">
+  </a>
+  <a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f">
+    <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojadubey01&" alt="poojadubey01" /></p>
+
+## **🎆Profile View Counter**
+<a href="https://www.instagram.com/_ecstasyy.__/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@poojadubey01?theme=rule34"></a>
+<a href="https://github.com/poojadubey01"><img align="left" width="100" src="https://cutewallpaper.org/21/pokemon-background-gif/Pokemon-gif-transparent-clipart-images-gallery-for-free-.gif"></a>
+
+```yaml
+🌸 Greetings! Enchanted by my charm? Welcome to my domain!
+Savor your stay! Delighted to have you in my world! 🌟💖
+```
+<!-- <br><br><br><br> -->
+## **📫 Contact**
+<a href="https://github.com/poojadubey01">
+<img align="right" width="100" src="https://i.pinimg.com/originals/48/a2/22/48a222dc162ff97bd007c94eb53d2098.gif"/></a>
+
+**You can also email me here:** poojadubeyrockstar@gmail.com
+
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=poojadubey01">-->
+[![](https://img.shields.io/github/followers/poojadubey01?label=Followers&style=social&color=purple)](https://github.com/well300)
+[![Instagram](https://img.shields.io/badge/Instagram-_ecstasyy.__-purple?logo=instagram&logoColor=white)](https://www.instagram.com/_ecstasyy.__/)
+[![linkedin](https://img.shields.io/badge/linkedin-pooja--dubey--3299621b1-purple?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-dubey-3299621b1/)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:poojadubeyrockstar@gmail.com)
