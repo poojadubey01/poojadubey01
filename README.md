@@ -15,7 +15,7 @@
 ## **🔮 About me**
 <a href="https://github.com/poojadubeu01">
 <img align="right" width="100" src="https://stareon.carrd.co/assets/images/gallery01/154bf892.gif?v92574008746751"></a>
-🧙‍♂️ I'm a software developer with full-stack and basic data science knowledge. 🌸💜<br>My strong background in computer science helps me excel in programming languages and frameworks. 🔮📚
+🧙‍♂️ Yoooo! This is Pooja aka Ashley and Welcome to my SWEET Github account. 🌸💜<br>I'm learning and trying to develop various applications for my benefit and, as a beginner, I would appreciate any help in coding, so connect with me to help me and you grow. 🔮📚
 <br><br>
 
 ## **💻 Experience**
