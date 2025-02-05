@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
   <h2><strong>Hello! I'm Pooja aka Ashley🌺</strong></h2>
-  <strong><code>Full Stack Developer</code></strong>
+  <strong><code>Software Developer</code></strong>
 </div>
 
 <div align="left">
@@ -21,7 +21,7 @@
 ## **💻 Experience**
 <a href="https://github.com/poojadubey01">
 <img align="right" width="100" src="https://i.pinimg.com/originals/62/a3/0c/62a30c5d65b6cd0d00b9d6e0e1364f55.gif"></a>
-🧙‍♂️ Worked on real-time projects with experts, mastering Python, Flutter, Django, Blockchain, and Java. 🏗️💻<br>
+🧙‍♂️ Worked on real-time projects with experts. 🏗️💻<br>
 🤝 Developed strong teamwork and multitasking skills. 🤹‍♂️🚀<br>
 ✨ Committed to continuous learning and eager to embrace new software development challenges. 🌟🔭<br>
 
